@@ -25,9 +25,11 @@ Hey there! I'm a passionate developer who loves building cool things with **Reac
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ByteSmit&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ByteSmit&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ByteSmit&theme=dark&hide_border=false&layout=compact&langs_count=8)
+<!-- Quick: uses public instance (less likely to hit rate limits) -->
+![](https://github-readme-stats.vercel.app/api?username=ByteSmit&theme=dark&show_icons=true&hide_border=false&include_all_commits=false&count_private=false&layout=compact&t=20250921)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ByteSmit&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ByteSmit&theme=dark&layout=compact&langs_count=8&hide_border=false&t=20250921)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ByteSmit&icon=0&color=0)](https://visitcount.itsvg.in)
