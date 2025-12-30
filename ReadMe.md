@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hey there! I'm a passionate developer who loves building cool things with **React**, and I also enjoy working with **Python**, **HTML**, and **CSS**. Whether it's designing user-friendly UIs or writing clean backend logic, I'm always excited to learn and create.
+I’m a passionate software developer with experience building modern, scalable applications. I specialize in creating intuitive user interfaces with React, developing reliable backend systems using Next.js, and building cross-platform mobile, iOS, and Windows applications with Flutter. I also have strong experience working with Python along with database technologies like MySQL and MongoDB. I enjoy solving real-world problems through clean, efficient code and continuously improving my skills as technology evolves.
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/yxf3y2r7)
