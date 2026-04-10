@@ -7,8 +7,6 @@ I’m a passionate software developer with experience building modern, scalable 
 <div align="center">
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ByteSmithTheDev&theme=react&show_icons=true&border_radius=25&hide=issues&custom_title=GitHub%20Statistics" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByteSmithTheDev&theme=react&border_radius=25&hide=issues&langs_count=4&custom_title=Top%20Languages" />
   </br>
 </a>
 </br>
