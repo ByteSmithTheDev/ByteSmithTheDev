@@ -2,6 +2,26 @@
 I’m a passionate software developer with experience building modern, scalable applications. I specialize in creating intuitive user interfaces with React, developing reliable backend systems using Next.js, and building cross-platform mobile, iOS, and Windows applications with Flutter. I also have strong experience working with Python along with database technologies like MySQL and MongoDB. I enjoy solving real-world problems through clean, efficient code and continuously improving my skills as technology evolves.
  
 
+## GitHub Statistics 📈
+
+<div align="center">
+  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ByteSmithTheDev&theme=react&show_icons=true&border_radius=25&hide=issues&custom_title=GitHub%20Statistics" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByteSmithTheDev&theme=react&border_radius=25&hide=issues&langs_count=4&custom_title=Top%20Languages" />
+  </br>
+</a>
+</br>
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ByteSmithTheDev&theme=github&bg_color=20232a&hide_border=true" width="80%"/>
+</a></br>
+
+</br>
+<a href="https://github.com/ByteSmithTheDev">
+    <img src="https://komarev.com/ghpvc/?username=ByteSmithTheDev&color=blue"/>
+</a>
+</div>
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/yxf3y2r7)
 
